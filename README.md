@@ -38,7 +38,7 @@ The last column of every table links the original full paper (publisher page or 
 | Key | Title | Access | PDF in repo | Original paper |
 |---|---|---|---|---|
 | [Mehrabi2021](notes/Mehrabi2021.md) | A Survey on Bias and Fairness in Machine Learning | Free to read on publisher site | [pdf](papers/Mehrabi2021.pdf), publisher PDF (ACM) | [link](https://doi.org/10.1145/3457607) |
-| [Pessach2022](notes/Pessach2023.md) | A Review on Fairness in Machine Learning | Free to read on publisher site | [pdf](papers/Pessach2023.pdf), publisher PDF (ACM) | [link](https://doi.org/10.1145/3494672) |
+| [Pessach2022](notes/Pessach2022.md) | A Review on Fairness in Machine Learning | Free to read on publisher site | [pdf](papers/Pessach2022.pdf), publisher PDF (ACM) | [link](https://doi.org/10.1145/3494672) |
 | [Caton2024](notes/Caton2024.md) | Fairness in Machine Learning: A Survey | Free to read on publisher site | [pdf](papers/Caton2024.pdf), publisher PDF (ACM) | [link](https://doi.org/10.1145/3616865) |
 | [Pagano2023](notes/Pagano2023.md) | Bias and Unfairness in Machine Learning Models: A Systematic Review on Datasets, Tools, Fairness Metrics, and Identification and Mitigation Methods | Open access | [pdf](papers/Pagano2023.pdf), publisher PDF | [link](https://doi.org/10.3390/bdcc7010015) |
 | [Gallegos2024](notes/Gallegos2024.md) | Bias and Fairness in Large Language Models: A Survey | Open access | [pdf](papers/Gallegos2024.pdf), publisher PDF | [link](https://doi.org/10.1162/coli_a_00524) |
@@ -78,7 +78,7 @@ The last column of every table links the original full paper (publisher page or 
 | [Lee2021](notes/Lee2021.md) | The Landscape and Gaps in Open Source Fairness Toolkits | Open access | [pdf](papers/Lee2021.pdf), publisher PDF | [link](https://doi.org/10.1145/3411764.3445261) |
 | [Saha2020](notes/Saha2020.md) | Measuring Non-Expert Comprehension of Machine Learning Fairness Metrics | Free to read on publisher site | [pdf](papers/Saha2020.pdf), publisher PDF | [link](https://proceedings.mlr.press/v119/saha20c.html) |
 | [Dodge2019](notes/Dodge2019.md) | Explaining Models: An Empirical Study of How Explanations Impact Fairness Judgment | Free to read on publisher site | [pdf](papers/Dodge2019.pdf), publisher PDF (ACM) | [link](https://doi.org/10.1145/3301275.3302310) |
-| [Wall2026](notes/Wall2026.md) | Human Bias in Visual Data Analysis: A Synthesis of Research to Empower Decision Makers | Open access | [pdf](papers/Wall2026.pdf)  | [link](https://link.springer.com/book/10.1007/978-3-032-09307-3) |
+| [Wall2026](notes/Wall2026.md) | Human Bias in Visual Data Analysis: A Synthesis of Research to Empower Decision Makers | Open access | [pdf](papers/Wall2026.pdf),  | [link](https://link.springer.com/book/10.1007/978-3-032-09307-3) |
 
 ### Data
 
